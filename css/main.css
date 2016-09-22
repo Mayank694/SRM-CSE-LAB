@@ -1,0 +1,56 @@
+
+.ontainer{
+width: 400px;
+height: 300px;
+  background-color:rgb(244, 244, 244);;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 110px;
+  border-radius: 5px;
+  z-index: 2px;
+z-index: 5px;
+box-shadow: 10px 10px 5px;
+
+}
+
+.footer{
+  text-align: center;
+}
+.ontainer img{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-top: -60px;
+  border-top: 5px;
+  border-color: blue;
+
+
+}
+
+.form{
+  margin-top: 9px;
+}
+
+
+.jumbotron{
+  height:50px;
+}
+#email{
+  width:300px;
+  border-radius:8px;
+}
+#password{
+  width:300px;
+  border-radius:8px;
+}
+
+#submit{
+  margin-top:5px;
+  border-radius:8px;
+}
+
+#label{
+  margin-top:40px;
+  text-align:left;
+  font-size:150%;
+}
