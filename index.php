@@ -15,7 +15,7 @@ body{
 </style>
   <body >
 <div class="jumbotron">
-<h3 style="text-align:center;margin-top:-5px;">SRM Lab Management - Faculty Of Engineering And Technology</h3>
+<h3 style="text-align:center;margin-top:-5px;">SRM Lab Management by Mayank- Faculty Of Engineering And Technology</h3>
 </div>
 </div>
       <div class="ontainer">
